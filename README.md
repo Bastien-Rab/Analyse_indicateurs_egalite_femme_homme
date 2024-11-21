@@ -33,7 +33,7 @@ Le projet a été réalisé pour un cabinet de consultants spécialisé dans la 
 ## 📄 Fichiers et Livrables
 - **Workflow KNIME** : Automatisation de la création des graphiques du diagnostic.
 - **Données d’analyse** : Fichier .csv anonymisé et structuré pour des analyses ultérieures.  
-- **Présentation de la démarche** : [Document PDF détaillant le workflow et les résultats obtenus](#).
+- **Présentation de la démarche** : Document PDF détaillant le workflow et les résultats obtenus.
 
 ---
 
