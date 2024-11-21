@@ -38,3 +38,51 @@ Le projet a été réalisé pour un cabinet de consultants spécialisé dans la 
 ---
 
 Ce projet a permis de consolider mes compétences en préparation de données, automatisation avec KNIME, et création de diagnostics analytiques tout en répondant aux exigences réglementaires et stratégiques.
+
+
+---
+
+---
+
+
+# ⚖️ Automation of the Gender Equality Report
+
+This project, completed as part of my OpenClassrooms Data Analyst training, aimed to develop an ETL workflow using **KNIME** to automate the creation of a diagnostic report on professional gender equality within a company of over 150 employees.
+
+---
+
+## 📚 Project Context
+The project was carried out for a consulting firm specializing in the digital transformation of businesses, with over 150 employees. The firm aimed to strengthen its commitment to gender equality to enhance its employer brand and attract new talent. To achieve this, the company decided to automate the calculation of the gender equality index, in compliance with GDPR regulations.
+
+---
+
+## 🎯 Project Objectives
+- **Automate the diagnostic report**: Implement a **KNIME workflow** capable of automatically generating the graphs and indicators required for the report.  
+- **Prepare the data**: Clean, transform, and anonymize data from the HRIS to ensure GDPR compliance.  
+- **Create an exploitable file**: Produce a `.csv` file ready for use in future analyses.  
+
+---
+
+## 📦 Deliverables
+1. **KNIME Workflow**: Full automation of the diagnostic report creation, including comments for easier interpretation.  
+2. **CSV File**: Cleaned, anonymized data ready for further analysis.  
+3. **Presentation**: A PDF document detailing the workflow and results obtained.  
+
+---
+
+## ✨ Skills Developed
+- Using **KNIME ETL** to automate analytical processes.  
+- Preparing and cleaning data while adhering to internal standards and GDPR compliance.  
+- Collecting and transferring data from HRIS to analytical preparation zones.  
+- Creating analytical visualizations to communicate clear and impactful results.
+
+---
+
+## 📄 Files and Deliverables
+- **KNIME Workflow**: Automating the creation of diagnostic report graphics.  
+- **Analysis Data**: An anonymized `.csv` file structured for further analysis.  
+- **Presentation**: A PDF document detailing the workflow and the results obtained.  
+
+---
+
+This project allowed me to strengthen my skills in data preparation, automation using KNIME, and creating analytical diagnostics, while meeting both regulatory and strategic requirements.
