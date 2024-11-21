@@ -1,6 +1,6 @@
 # ⚖️ Automatisation du Rapport d'Égalité Femmes-Hommes
 
-Ce projet, réalisé dans le cadre de ma formation en Data Analytics, avait pour objectif de développer un workflow ETL avec **KNIME** afin d’automatiser la création d’un rapport diagnostique sur l’égalité professionnelle entre les femmes et les hommes au sein d’une entreprise de plus de 150 salariés.
+Ce projet, réalisé dans le cadre de ma formation OpenClassrooms Data Analyst, avait pour objectif de développer un workflow ETL avec **KNIME** afin d’automatiser la création d’un rapport diagnostique sur l’égalité professionnelle entre les femmes et les hommes au sein d’une entreprise de plus de 150 salariés.
 
 ---
 
